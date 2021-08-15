@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A body mass index calculator android & ios application.
+A Body Mass Index calculator android & ios application.
 
 ## Getting Started
 
